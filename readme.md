@@ -1,5 +1,4 @@
 # Resolución de los ejercicios de la práctica de GIT
-___
 
 ## ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
@@ -7,8 +6,7 @@ ___
 
 ## ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 
-*git reflog para saber el identificador del commit al que quiero ir.*
-*Despues git reset --hard + identificador para volver al commit en el que estaban los archivos modificados.*
+*git reflog para saber el identificador del commit al que quiero ir. Despues git reset --hard + identificador para volver al commit en el que estaban los archivos modificados.*
 
 ## El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 
