@@ -2,7 +2,7 @@
 
 ## ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-*git reset --hard HEAD~1 , añado el --hard para perder los cambios en el working copy y el HEAD~1 para volver al commit anterior.*
+*git reset --hard HEAD~1 , añado el --hard para perder los cambios en el working copy y el HEAD1 para volver al commit anterior.*
 
 ## ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 
